@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+*{
+    margin: 0;
+    font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.backgcolor{
+    background-color: #f9fafc;
+}
+.all{
+    display: flex;
+}
+img{
+    width: 200px;
+    height: 255px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.img2 img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+p{  
+    font-weight: bold;
+    font-size: 33px;
+    background: linear-gradient(to bottom, #232323, #aeaeae);
+    background-clip: text;
+    color: transparent;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom:  20px;   
+    margin: 10px;
+    background-color: black;
+}
+h2{
+    font-weight: bold;
+    margin-left: 10px;
+}
+.bgcolor{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #ebeef3;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+}
+.bgcolor2{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #ebeef3;
+    width: 200px;
+    height: 110px;
+    border-radius: 10px;
+}
